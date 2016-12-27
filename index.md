@@ -17,7 +17,7 @@
 * Ranked 5 amongst 76 students in Dept. of Electronics and Telecommunication, 2015
 * 1 of the 2 students selected for year-long Final Year Project in Variable Energy Cyclotron Center, Kolkata  
 
-### **Publications:**
+> # Publications
 
 * http://dblp.uni-trier.de/pers/hd/m/Majumder:Bodhisattwa_Prasad
  
